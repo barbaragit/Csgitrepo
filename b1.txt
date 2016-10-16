@@ -1,1 +1,2 @@
 b1 local file and first line
+adding second line to show it in local master
