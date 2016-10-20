@@ -1,2 +1,3 @@
 b1 local file and first line
 adding second line to show it in local master
+19OCT2016: good
